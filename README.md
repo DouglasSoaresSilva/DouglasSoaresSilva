@@ -2,7 +2,7 @@
   
 <h1 align="center">
     Hello,I'm
-    <a href="">Douglas Soares 👍 a>
+    <a href="">Douglas Soares 👍
   </h1>
   
   <p align="center">
