@@ -5,7 +5,7 @@
     <a href="">Douglas Soares 👍
   </h1>
   
-  <p align="center">
+  <p align="top-left">
     I'm currently a student at Etec Zona Leste.
   </p>
 
