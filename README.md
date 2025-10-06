@@ -12,3 +12,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=douglassoaressilva&show_icons=true&locale=en" alt="douglassoaressilva"
   </a>
 </div>
+
+![snake animation](https://github.com/<DouglasSoaresSilva>/<DouglasSoaresSilva>/blob/output/github-contribution-grid-snake2.svg)
