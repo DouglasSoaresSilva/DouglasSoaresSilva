@@ -1,4 +1,4 @@
-<strong><h1 align="center">Hello, I'm<a href="">Douglas Soares 👍</h1></a> </strong>
+<strong><h1 align="center">Hello, I'm <a href="">Douglas Soares 👍</h1></a> </strong>
 <h3 align="center">I'm currently a student at Etec Zona Leste.</h3>
 
 <hr>
