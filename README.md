@@ -27,4 +27,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height=70"/>&nbsp;
 </p>
 
-<img src="https://raw.githubusercontent.com/DouglasSoaresSilva/DouglasSoaresSilva/output/snake.svg" alt="Snake animation" />
