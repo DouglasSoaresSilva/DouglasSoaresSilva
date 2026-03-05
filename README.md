@@ -9,7 +9,7 @@
 <h2 align="left">Hey there!👋 I'm Douglas Soares.</h2>
 
 ###
-<img align="left" height="170" src="https://gifdb.com/images/high/bill-cipher-hologram-gravity-falls-5qkm8n1721inzvsv.gif"  />
+<img align="left" height="180" src="https://gifdb.com/images/high/bill-cipher-hologram-gravity-falls-5qkm8n1721inzvsv.gif"  />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DouglasSoaresSilva&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
