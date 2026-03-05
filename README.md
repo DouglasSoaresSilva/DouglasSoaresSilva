@@ -13,15 +13,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DouglasSoaresSilva&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
 ###
 
-<div align="left">
-</div>
-
-###
-
-<img align="center" height="120" src="https://gifdb.com/images/high/bill-cipher-hologram-gravity-falls-5qkm8n1721inzvsv.gif"  />
+<img align="left" height="120" src="https://gifdb.com/images/high/bill-cipher-hologram-gravity-falls-5qkm8n1721inzvsv.gif"  />
 
 ###
 
