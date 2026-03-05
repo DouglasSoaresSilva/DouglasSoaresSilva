@@ -22,7 +22,7 @@
 
 ###
 
-<img align="right" height="150" src="https://static.wikia.nocookie.net/gravityfalls/images/3/3b/S1e19_Bill_Wheel.gif/revision/latest?cb=20180727200728"  />
+<img align="right" height="150" src="https://gifdb.com/images/high/bill-cipher-hologram-gravity-falls-5qkm8n1721inzvsv.gif"  />
 
 ###
 
