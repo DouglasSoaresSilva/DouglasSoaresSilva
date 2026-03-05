@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://gifdb.com/images/high/gravity-falls-bill-cipher-magic-h0343wq4w7ql4s3z.gif"  />
+<img align="right" height="150" src="https://gifdb.com/images/high/gravity-falls-bill-cipher-magic-h0343wq4w7ql4s3z.gif"/>
 
 ###
 
