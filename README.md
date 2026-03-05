@@ -22,7 +22,7 @@
 
 ###
 
-<img align="right" height="150" src="https://gifdb.com/images/high/bill-cipher-hologram-gravity-falls-5qkm8n1721inzvsv.gif"  />
+<img align="center" height="120" src="https://gifdb.com/images/high/bill-cipher-hologram-gravity-falls-5qkm8n1721inzvsv.gif"  />
 
 ###
 
