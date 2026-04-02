@@ -15,9 +15,11 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DouglasSoaresSilva&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DouglasSoaresSilva&theme=tokyonight)](https://git.io/streak-stats)
+
 ## 🚀 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DouglasSoaresSilva&theme=tokyonight)](https://git.io/streak-stats)
+
 
 
 ###
