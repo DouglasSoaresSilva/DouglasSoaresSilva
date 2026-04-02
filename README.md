@@ -11,11 +11,9 @@
 ###
 <img align="left" height="180" src="https://gifdb.com/images/high/bill-cipher-hologram-gravity-falls-5qkm8n1721inzvsv.gif"  />
 
-<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DouglasSoaresSilva&theme=tokyonight)](https://git.io/streak-stats)
-</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DouglasSoaresSilva&theme=tokyonight)](https://git.io/streak-stats)
+
 
 ## 🚀 GitHub Stats
 
