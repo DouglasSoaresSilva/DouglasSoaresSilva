@@ -10,7 +10,7 @@
 
 ###
 <img align="left" height="180" src="https://gifdb.com/images/high/bill-cipher-hologram-gravity-falls-5qkm8n1721inzvsv.gif"  />
-
+<img align="left" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVua3R3a2J5OGR5cHQzbmE4cmp3eWZiZHU2eGd3ZjZwNXNiYWxmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gcgNNe0ZIV22Ncu35D/giphy.gif" />
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DouglasSoaresSilva&theme=tokyonight)](https://git.io/streak-stats)
 
 
