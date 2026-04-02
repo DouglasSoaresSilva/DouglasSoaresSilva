@@ -21,6 +21,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSoaresSilva&layout=compact&theme=tokyonight)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DouglasSoaresSilva&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ###
