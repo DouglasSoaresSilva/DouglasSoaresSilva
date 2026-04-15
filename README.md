@@ -12,8 +12,6 @@
 <img align="left" height="180" src="https://gifdb.com/images/high/bill-cipher-hologram-gravity-falls-5qkm8n1721inzvsv.gif"  />
 <img align="center" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVua3R3a2J5OGR5cHQzbmE4cmp3eWZiZHU2eGd3ZjZwNXNiYWxmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gcgNNe0ZIV22Ncu35D/giphy.gif" />
 
-<p> I'm a 16 y/old student, learning programming</p>
-
 ## 🚀 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DouglasSoaresSilva&theme=tokyonight)](https://git.io/streak-stats)
@@ -96,11 +94,11 @@
 
   ## I'm learning 📚<br/>
   
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,java,php,markdown,mysql,cpp,kotlin&theme=dark" title="Html, CSS, Javascript, Dart, JAVA, PHP e Markdown, MySQL, C++ e Kotlin"/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,php,markdown,mysql,cpp,kotlin&theme=dark" title="Html, CSS, Javascript, JAVA, PHP e Markdown, MySQL, C++ e Kotlin"/><br/><br/>
   
   ## My tools 🛠️<br/>
 
-  <img src="https://skillicons.dev/icons?i=nodejs,figma,vscode,eclipse,git,androidstudio&theme=dark" title="nodejs, figma, vscode, eclipse, netbeans e android studio"/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,figma,vscode,git,androidstudio&theme=dark" title="nodejs, figma, vscode, eclipse, netbeans e android studio"/><br/><br/>
   
   ## Talk to me 👍<br/>
 
