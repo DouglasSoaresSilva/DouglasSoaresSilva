@@ -76,7 +76,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6302D1&section=header&reversal=false" width=100%>
   
   <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=👋+Hello+my+name+is+Guilherme+Araujo!;And+I'm+a+beginner+developer!;Let%27s+code+together%3F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=👋+Hello+my+name+is+Douglas+Soares!;I'm+a+beginner+developer!;Let%27s+code+together%3F" alt="Typing SVG" />
 
 #
 
@@ -102,12 +102,12 @@
 
   <img src="https://skillicons.dev/icons?i=nodejs,figma,vscode,eclipse,git,androidstudio&theme=dark" title="nodejs, figma, vscode, eclipse, netbeans e android studio"/><br/><br/>
   
-  ## Talk to me 🤙<br/>
+  ## Talk to me 👍<br/>
 
-<a href="mailto:guilhermearaujocarneiro26@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-6302D1?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)</a>
-<a href="mailto:guilherme.silva2878@etec.sp.gov.br">
+<a href="mailto:douglas.silva918@etec.sp.gov.br">![Static Badge](https://img.shields.io/badge/Gmail-6302D1?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)</a>
+<a href="mailto:">
 ![Static Badge](https://img.shields.io/badge/Outlook-6302D1?style=for-the-badge&logo=outlook&logoColor=FFFFFF)</a>
-<a href="https://teams.microsoft.com/l/chat/0/0?users=guilherme.silva2878@etec.sp.gov.br">
+<a href="https://teams.microsoft.com/l/chat/0/0?users=douglas.silva918@etec.sp.gov.br">
 ![Static Badge](https://img.shields.io/badge/Teams-6302D1?)
 
 --- 
