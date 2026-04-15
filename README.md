@@ -73,30 +73,42 @@
 
 
 
-# Welcome to My Profile
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6302D1&section=header&reversal=false" width=100%>
+  
+  <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=👋+Hello+my+name+is+Guilherme+Araujo!;And+I'm+a+beginner+developer!;Let%27s+code+together%3F" alt="Typing SVG" />
 
-## About Me
+#
 
-Hello! My name is **Douglas Soares Silva**, a passionate software developer with a focus on creating efficient and scalable applications. I love exploring new technologies and continuously improving my skills.
+<!--<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Guimkm&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />-->
 
-## Skills
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, Jenkins
+<!--[Guimkm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimkm&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)-->
 
-## Projects
-- **[Project One](https://github.com/DouglasSoaresSilva/project-one)**: A brief description of project one.
-- **[Project Two](https://github.com/DouglasSoaresSilva/project-two)**: A brief description of project two.
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Guimkm&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+| :-: | -->
 
-## Get In Touch
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/douglassoaresilva)
-- **GitHub**: [DouglasSoaresSilva](https://github.com/DouglasSoaresSilva)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guimkm&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guimkm&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guimkm&theme=midnight_purple)
+| :-: | :-: | :-: |
 
-## Hobbies
-- Coding
-- Reading Tech Blogs
-- Exploring Nature
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guimkm&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Guimkm&theme=midnight_purple&utc=America/Sao_Paulo)
+| :-: | :-: |
+<br/>
+
+  ## I'm learning 📚<br/>
+  
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,java,php,markdown,mysql,cpp,kotlin&theme=dark" title="Html, CSS, Javascript, Dart, JAVA, PHP e Markdown, MySQL, C++ e Kotlin"/><br/><br/>
+  
+  ## My tools 🛠️<br/>
+
+  <img src="https://skillicons.dev/icons?i=nodejs,figma,vscode,eclipse,git,androidstudio&theme=dark" title="nodejs, figma, vscode, eclipse, netbeans e android studio"/><br/><br/>
+  
+  ## Talk to me 🤙<br/>
+
+<a href="mailto:guilhermearaujocarneiro26@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-6302D1?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)</a>
+<a href="mailto:guilherme.silva2878@etec.sp.gov.br">
+![Static Badge](https://img.shields.io/badge/Outlook-6302D1?style=for-the-badge&logo=outlook&logoColor=FFFFFF)</a>
+<a href="https://teams.microsoft.com/l/chat/0/0?users=guilherme.silva2878@etec.sp.gov.br">
+![Static Badge](https://img.shields.io/badge/Teams-6302D1?)
 
 --- 
 
