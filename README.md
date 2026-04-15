@@ -52,5 +52,5 @@
   </a>
 
 --- 
-<img align="center" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVua3R3a2J5OGR5cHQzbmE4cmp3eWZiZHU2eGd3ZjZwNXNiYWxmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gcgNNe0ZIV22Ncu35D/giphy.gif" >
+<img height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVua3R3a2J5OGR5cHQzbmE4cmp3eWZiZHU2eGd3ZjZwNXNiYWxmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gcgNNe0ZIV22Ncu35D/giphy.gif" >
 Thank you for visiting my profile! I'm excited to connect, collaborate, and share ideas!
