@@ -79,17 +79,26 @@
 #
 
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DouglasSoaresSilva&theme=discord_old_blurple&hide_border=true" alt="GitHub Streak" />-->
+
 <!--[Guimkm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSoaresSilva&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DouglasSoaresSilva&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
-| :-: |
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DouglasSoaresSilva&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+| :-: | -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DouglasSoaresSilva&theme=discord_old_blurple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DouglasSoaresSilva&theme=discord_old_blurple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DouglasSoaresSilva&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DouglasSoaresSilva&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DouglasSoaresSIlva&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DouglasSoaresSilva&theme=midnight_purple)
 | :-: | :-: | :-: |
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DouglasSoaresSilva&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DouglasSoaresSilva&theme=discord_old_blurple&utc=America/Sao_Paulo)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DouglasSoaresSilva&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Guimkm&theme=midnight_purple&utc=America/Sao_Paulo)
 | :-: | :-: |
 <br/>
+
+  ## I'm learning 📚<br/>
+  
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,php,markdown,mysql,cpp,kotlin&theme=dark" title="Html, CSS, Javascript, JAVA, PHP e Markdown, MySQL, C++ e Kotlin"/><br/><br/>
+  
+  ## My tools 🛠️<br/>
+
+  <img src="https://skillicons.dev/icons?i=nodejs,figma,vscode,git,androidstudio&theme=dark" title="nodejs, figma, vscode, eclipse, netbeans e android studio"/><br/><br/>
 
   ## I'm learning 📚<br/>
   
