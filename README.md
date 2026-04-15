@@ -1,10 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6302D1&section=header&reversal=false" width=100%>
 
-<img align="left" height="180" src="https://gifdb.com/images/high/bill-cipher-hologram-gravity-falls-5qkm8n1721inzvsv.gif"  />
-<img align="center" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVua3R3a2J5OGR5cHQzbmE4cmp3eWZiZHU2eGd3ZjZwNXNiYWxmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gcgNNe0ZIV22Ncu35D/giphy.gif" />
-
-
   <div align="center">
+    <img height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVua3R3a2J5OGR5cHQzbmE4cmp3eWZiZHU2eGd3ZjZwNXNiYWxmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gcgNNe0ZIV22Ncu35D/giphy.gif" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=👋+Hello+my+name+is+Douglas+Soares!;I'm+a+beginner+developer!;Let%27s+code+together%3F" alt="Typing SVG" />
 
 #
