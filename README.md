@@ -46,13 +46,11 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:douglas201003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+ </a>
   <a href="https://api.whatsapp.com/send/?phone=5511978283092&text&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 
 --- 
-<img height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVua3R3a2J5OGR5cHQzbmE4cmp3eWZiZHU2eGd3ZjZwNXNiYWxmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gcgNNe0ZIV22Ncu35D/giphy.gif" >
+<img align="center" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVua3R3a2J5OGR5cHQzbmE4cmp3eWZiZHU2eGd3ZjZwNXNiYWxmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gcgNNe0ZIV22Ncu35D/giphy.gif" >
 Thank you for visiting my profile! I'm excited to connect, collaborate, and share ideas!
