@@ -78,9 +78,8 @@
 
 #
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DouglasSoaresSilva&theme=discord_old_blurple&hide_border=true" alt="GitHub Streak" />
-
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSoaresSilva&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)-->
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DouglasSoaresSilva&theme=discord_old_blurple&hide_border=true" alt="GitHub Streak" />-->
+<!--[Guimkm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSoaresSilva&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DouglasSoaresSilva&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 | :-: |
